@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Poppins", sans-serif;
-  background-color: #595959;
+  background-color: #3728c3;
 }
 .wrapper {
   width: 33.75em;
@@ -37,7 +37,7 @@ body {
   width: 3.12em;
   height: 3.12em;
   border-radius: 50%;
-  background: radial-gradient(#fff04e 1.12em, #ffc400 1.25em);
+  background: radial-gradient(#ff4e4e 1.12em, #ff0000 1.25em);
 }
 .player2:before {
   content: "";
@@ -64,7 +64,7 @@ body {
   height: 5em;
   display: grid;
   place-items: center;
-  background: radial-gradient(white 1.37em, #595959 1.43em);
+  background: radial-gradient(white 1.37em, yellow 1.43em);
   cursor: pointer;
 }
 .hide {

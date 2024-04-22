@@ -131,7 +131,7 @@ class ConnectFour extends React.Component {
         }
 
         if (count === 6) {
-            alert("Game over!");
+            alert("Game over, No Winner!");
             return true;
         }
     }    
